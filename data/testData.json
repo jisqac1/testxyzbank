@@ -1,0 +1,19 @@
+{
+    "CustomerData1": 
+    {
+        "firstname": "Abhishek",
+        "lastname": "karan",
+        "Code": "500010",
+        "currency": "Rupee",
+        "url":"http://www.way2automation.com/angularjs-protractor/banking/#/login"
+    },
+
+    "CustomerData":{
+        "name": "Harry Potter",
+        "DAmt": "9000",
+        "Msg":"Deposit Successful",
+        "WAmt": "4000",
+        "Msg1":"Transaction successful",
+        "Title":"XYZ Bank"
+    }
+}

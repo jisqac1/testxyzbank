@@ -1,0 +1,1 @@
+{"version":3,"file":"BankManagerPage.js","sourceRoot":"","sources":["BankManagerPage.ts"],"names":[],"mappings":";;AACA,iDAA6C;AAE7C,MAAa,iBAAkB,SAAQ,gBAAO;IAI1C;QACI,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,gBAAgB,GAAG,iCAAiC,CAAA;IAC7D,CAAC;IAEM,sBAAsB;QACzB,IAAI,CAAC,OAAO,CAAC,IAAI,CAAC,gBAAgB,EAAC,EAAE,CAAC,CAAC;IACnC,CAAC;CAGZ;AAdD,8CAcC"}
